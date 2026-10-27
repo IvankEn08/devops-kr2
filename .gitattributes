@@ -4,3 +4,4 @@ Dockerfile text eol=lf
 .env.example text eol=lf
 *.yml text eol=lf
 *.py text eol=lf
+nginx/*.conf text eol=lf
