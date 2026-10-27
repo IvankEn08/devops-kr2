@@ -1,3 +1,4 @@
+# KR2: gladkikh
 import os
 import socket
 
